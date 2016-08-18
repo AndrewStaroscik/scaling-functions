@@ -1,0 +1,15 @@
+{
+  "name": "scaling-functions",
+  "version": "1.0.0",
+  "description": "A function to return slope and intercept of a pair of points. Used for scaling functions",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AndrewStaroscik/scaling-functions"
+  },
+  "author": "Andrew Staroscik <ams@staroscik.com> (http://andrewstaroscik.com)",
+  "license": "MIT"
+}
