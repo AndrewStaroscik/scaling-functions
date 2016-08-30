@@ -15,8 +15,8 @@ module.exports = {
         b: y intercept of line
     */
     calcEqn: function (x1,x2,y1,y2) {
-      let m = (y2-y1)/(x2-x1);
-      let b = y1 - (m*x1);
+      var m = (y2-y1)/(x2-x1);
+      var b = y1 - (m*x1);
 
       return {m: m, b: b};
     },
